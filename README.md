@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CS52 Workshops:  React Components
 
 ![screen shots are helpful](https://media.giphy.com/media/pyrgZQBxeWq5zx7sFQ/giphy.gif)
